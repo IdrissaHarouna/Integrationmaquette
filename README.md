@@ -1,1 +1,1 @@
-TP d'integration d'une maquette 
+TP d'integration d'une maquette web
