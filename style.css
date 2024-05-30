@@ -11,7 +11,7 @@ section {
 }
 body {
     position: relative;
-    background-color: #154c79;
+    background-color: #07141e;
 }
 html {
     scroll-behavior: smooth;
@@ -109,13 +109,20 @@ header {
 
 .about .right button {
     margin: 20px 0;
-    padding: 5px 60px;
-    border: 0;
+    padding: 15px 60px;
+    border: 2px;
+    background-color: #154c79;
 }
 .about .right button a{
-    color: #fff;
+    color: blue;
     text-decoration: 0;
     font-weight: bolder;
+}
+.right button{
+    background-color: blue;
+    color: #ffffff;
+    height: 30px;
+    
 }
 
 
