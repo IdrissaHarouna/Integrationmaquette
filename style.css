@@ -154,6 +154,9 @@ header {
     justify-content: space-between;
     align-items: flex-start;
 }
+.content-section h2{
+   padding-top: 15px;
+}
 
 .left {
     display: flex;
@@ -187,6 +190,11 @@ header {
     height: auto; 
 }
 
+@media (max-width: 768px) {
+    .content {
+        flex: 1 1 100%;
+    }}
+
 
 /* Join the fun */
 
@@ -211,6 +219,7 @@ header {
 .input-group {
     margin-bottom: 15px;
     border: blue;
+    
     
    
 }
